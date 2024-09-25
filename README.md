@@ -41,8 +41,9 @@ Start the frontend application:
 ```bash
 Copy code
 npm run dev
-Step 3: Backend Setup
 ```
+###Step 3: Backend Setup
+
 Navigate to the backend folder and install dependencies:
 
 ```bash
