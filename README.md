@@ -28,44 +28,47 @@ Follow the instructions below to set up the project on your local machine.
 ```bash
 git clone 
 cd clinic-management-system
-
-Step 2: Frontend Setup
+```
+###Step 2: Frontend Setup
 Navigate to the frontend folder and install the required dependencies:
 
-bash
+```bash
 Copy code
 cd frontend
 npm i
 Start the frontend application:
-
-bash
+```
+```bash
 Copy code
 npm run dev
 Step 3: Backend Setup
+```
 Navigate to the backend folder and install dependencies:
 
-bash
+```bash
 Copy code
 cd ../backend
 npm i
 Create a config.env file in the backend directory 
+```
 
-
-bash
+```bash
 Copy code
 node server.js
-Step 4: Dashboard Setup
+```
+###Step 4: Dashboard Setup
 Navigate to the dashboard folder:
 
-bash
+```bash
 Copy code
 cd ../dashboard
 npm i
 Start the dashboard application:
-
-bash
+```
+```bash
 Copy code
 npm run dev
+```
 🎉 All Set!
 You now have the Clinic Management System up and running! Access the frontend, backend, and dashboard to start managing your clinic operations efficiently.
 
