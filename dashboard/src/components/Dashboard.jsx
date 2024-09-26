@@ -64,9 +64,7 @@ const Dashboard = () => {
                 </h5>
               </div>
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Facilis, nam molestias. Eaque molestiae ipsam commodi neque.
-                Assumenda repellendus necessitatibus itaque.
+              Welcome to the Clinic Admin Portal, designed to help you manage appointments, patient records, and staff schedules with ease. Stay organized by accessing vital information, tracking inventory, and streamlining your clinic's daily operations. With everything at your fingertips, this portal simplifies clinic management, ensuring that healthy systems lead to healthier patients
               </p>
             </div>
           </div>
